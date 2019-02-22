@@ -22,15 +22,15 @@
         "color" : "#8D979DFF"
       },
       "iconPaddingHorizontal" : 14,
-      "paddingVertical" : 9,
+      "paddingVertical" : 15,
       "iconSize" : 33
     },
     "search" : {
-      "paddingVertical" : 12,
+      "paddingVertical" : 6,
       "background" : "#181F2300",
       "spacing" : 8,
       "text" : {
-        "size" : 28,
+        "size" : 32,
         "colorSelected" : "#000000FF",
         "font" : "System Light",
         "color" : "#C4D4DCFF"
