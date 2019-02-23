@@ -5,8 +5,8 @@
       "subtext" : {
         "size" : 12,
         "colorSelected" : "#889AA6FF",
-        "font" : "System Light",
-        "color" : "#C5D3DDFF"
+        "font" : "System",
+        "color" : "#8D969CFF"
       },
       "shortcut" : {
         "size" : 14,
@@ -16,35 +16,35 @@
       },
       "backgroundSelected" : "#4355606D",
       "text" : {
-        "size" : 16,
+        "size" : 20,
         "colorSelected" : "#69A4AEFF",
         "font" : "System Light",
         "color" : "#69A4AEFF"
       },
       "iconPaddingHorizontal" : 14,
-      "paddingVertical" : 15,
+      "paddingVertical" : 9,
       "iconSize" : 33
     },
     "search" : {
-      "paddingVertical" : 15,
-      "background" : "#22292EFF",
+      "paddingVertical" : 10,
+      "background" : "#22292E00",
       "spacing" : 0,
       "text" : {
         "size" : 34,
         "colorSelected" : "#000000FF",
-        "font" : "System Light",
+        "font" : "System",
         "color" : "#C5D3DDFF"
       },
       "backgroundSelected" : "#B3D7FFFF"
     },
     "window" : {
-      "color" : "#1D272CE7",
+      "color" : "#1D272CF4",
       "paddingHorizontal" : 0,
-      "width" : 708,
+      "width" : 728,
       "borderPadding" : 0,
-      "borderColor" : "#0000007F",
+      "borderColor" : "#8D969CFF",
       "blur" : 24,
-      "roundness" : 6,
+      "roundness" : 7,
       "paddingVertical" : 0
     },
     "credit" : "Jason Calleiro",
